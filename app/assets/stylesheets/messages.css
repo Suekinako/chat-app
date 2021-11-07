@@ -58,7 +58,7 @@
   justify-content: space-between;
 }
 
-.test-room{
+.left-header{
   font-size: 24px;
   color: #333;
   margin-top: 36px;
@@ -119,20 +119,20 @@
   display: flex;
 }
 
-.chat-form{
+.form-input{
   background-color: white;
   display: flex;
   width: 100%;
 }
 
-.message-form{
+.form-message{
   border:  none;
   height: 50px;
   width: 100%;
   padding-left: 10px;
 }
 
-.send{
+.form-submit{
   font-size: 16px;
   color: white;
   background-color: #38AEF0;
